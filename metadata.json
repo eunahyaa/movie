@@ -1,0 +1,5 @@
+{
+  "name": "2025 Movie Journal",
+  "description": "A web application to create and manage a personal journal of movies watched in 2025, with AI-powered review assistance.",
+  "requestFramePermissions": []
+}
